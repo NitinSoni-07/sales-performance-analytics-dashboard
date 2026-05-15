@@ -40,4 +40,6 @@ This project analyzes sales performance data using Excel, Python, SQL, and Power
 
 ## Dashboard Preview
 
-![Dashboard]()
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
